@@ -41,6 +41,11 @@ node main.js VGULlnz44R0Ooe4FZKDxlhh4 <API_TOKEN_HERE>
 
 where `<API_TOKEN_HERE>` would be repaced with your developer token.
 
+Existing [Figma component](https://www.figma.com/file/aVA7Nep3iZuDo3ru7rjxIZ1) corversion example: 
+```
+node main.js aVA7Nep3iZuDo3ru7rjxIZ 164730-c6ec9a92-c064-428b-b11a-1fce524eda75
+```
+
 You can also change the .env file and insert your token there
 
 ```
